@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+/* You can pick one of these styles */
+@import "~@kikstart-ui/themes/scss/dark";
+//@import "~@kikstart-ui/themes/scss/light";
+//@import "~@kikstart-ui/themes/scss/pirate";
+
+// Load the colors
+@import "~@kikstart-ui/themes/scss/colors";
