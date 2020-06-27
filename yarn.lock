@@ -1067,90 +1067,90 @@
     merge-source-map "^1.1.0"
     schema-utils "^2.6.4"
 
-"@kikstart-ui/layout-web@^2.0.0-alpha.0":
-  version "2.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/layout-web/-/layout-web-2.0.0-alpha.0.tgz#e92b70cfebab8e37115c5b9108731e8e1a99cd8b"
-  integrity sha512-nmzp7MJ4La3VIlhJP7lX5DwV9ic9ykni1LCP0M6SOyV42SJAlw/TbIUA2Mvg9BezNfEx9WDo2noBDZSXmwc96w==
+"@kikstart-ui/layout-web@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/layout-web/-/layout-web-2.0.0-alpha.3.tgz#07ef599379feb83a0a9a2dc7c93b5dfd8db3e525"
+  integrity sha512-yX3BI+AYaqvnMwD/QqOpbE3LtLfAtH/lz9tgw5cP7RtAK6fSLFbIHBxrgKDJpScrHAeNdm0cm9+vqY9aZKxfSw==
   dependencies:
     "@angular/platform-browser" "^9.1.11"
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.0"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.0"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
     tslib "^1.10.0"
 
-"@kikstart-ui/themes@^2.0.0-alpha.0":
-  version "2.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/themes/-/themes-2.0.0-alpha.0.tgz#e22b5200fbeac96baaf8d64d10e3ff674716e5e0"
-  integrity sha512-TnML3jA28Lr8vKST5f/0JMDgpf5mAut5pHc01kDf1qH9LBrVXe/XugSEAJFhszdf0jSYS2uJrVYGKa2uCCR2Ng==
+"@kikstart-ui/themes@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/themes/-/themes-2.0.0-alpha.3.tgz#89fc746454e95d854687d5ea85b9b58fe9dcf028"
+  integrity sha512-zO2MIaAbJRtWtnSYzSEH67UzL83CL9n9UpacN1ljFyinezyEi9+PC4xLZ6SHXutchwvtIX6sfGxmKW/GjZNwIw==
   dependencies:
     rxjs "~6.5.5"
 
-"@kikstart-ui/ui-avatar@2.0.0-alpha.1", "@kikstart-ui/ui-avatar@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-avatar/-/ui-avatar-2.0.0-alpha.1.tgz#77bd4f933de1c6c56c03b510ba4dfb3a867b0eb8"
-  integrity sha512-pHfms+qpQt3qRqVB1bHfDgB6OXqVc04FY2OdLGSMZCmoVgXZ4r2D6rsfJT7kOuZ7gYVWa35g7W59cxDtnJsb/A==
+"@kikstart-ui/ui-avatar@2.0.0-alpha.3", "@kikstart-ui/ui-avatar@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-avatar/-/ui-avatar-2.0.0-alpha.3.tgz#e0c9d23fa3317c702f9edad96ae7cf20718434ed"
+  integrity sha512-VNkwm+VgCKjkZoeoP5OYihukd3eqURCB2wgLEQBoEb9m6p9NZc24Uu1X1WEePqy1GMQlM4yOcHcSLuBuuEYtvw==
   dependencies:
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-brand@2.0.0-alpha.1", "@kikstart-ui/ui-brand@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-brand/-/ui-brand-2.0.0-alpha.1.tgz#5a6f34cac380ca8a4731176cd9f3c8a7c6924b33"
-  integrity sha512-9M1FA0exSuRtclRy/b3KJybu83fTWTekQL8jQ7JcB6vEN4fYx3u5W1Zo+mdxDSR9/VyPtQTh+eeszOEPT1Rgdg==
+"@kikstart-ui/ui-brand@2.0.0-alpha.3", "@kikstart-ui/ui-brand@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-brand/-/ui-brand-2.0.0-alpha.3.tgz#58bdf35a644fdd8f6ef6322a006a21df210ba7d9"
+  integrity sha512-Y7LMVoUmxi2kaJUcvx8We2xtBEIcmGPduHHffBIijSyvMOsNzS6urhGyh39K2GuCRq2D3EFHQEuZSG8EqwAreQ==
   dependencies:
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-button@2.0.0-alpha.1", "@kikstart-ui/ui-button@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-button/-/ui-button-2.0.0-alpha.1.tgz#c8b623e32f812afdf6619914b2e18f54145a3ea2"
-  integrity sha512-2eGWReeznh39k+RnbeCJCUsWDrmWdM1ioJ33wiXZrSIWrghxiJWmwnRFTeyF/z3Ad6w6v/uXpKXX8V+GhZk/RQ==
-  dependencies:
-    "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-loading" "2.0.0-alpha.1"
-    tslib "^1.10.0"
-
-"@kikstart-ui/ui-card@2.0.0-alpha.1", "@kikstart-ui/ui-card@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-card/-/ui-card-2.0.0-alpha.1.tgz#09ad699604f3357c1abb5e108ae1cb40a61ff9a7"
-  integrity sha512-uDBSI711jWbKvgRao/B4aKkLFgAItbXhVcboPX5eIP795ptGKUywUhVuHXEOfNtt8J248NceWyZhiDUoJMAmuA==
+"@kikstart-ui/ui-button@2.0.0-alpha.3", "@kikstart-ui/ui-button@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-button/-/ui-button-2.0.0-alpha.3.tgz#9fc026f775aa189a46fbda05712cf27eab561a31"
+  integrity sha512-jBION4Alaq7wi6laqkcApYlfxPXoarl5Kzh//2W71DrYET9OA2ffFskVzfR1cnzbvmKuwtZoETl32sz2bBIIzw==
   dependencies:
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-button" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-loading" "2.0.0-alpha.1"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-loading" "2.0.0-alpha.3"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-cart-icon@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-cart-icon/-/ui-cart-icon-2.0.0-alpha.1.tgz#6f9bfb02c74844a1d3ce2a06197cfb4c9be4ce7e"
-  integrity sha512-JjxKnDT9s5WNcOcKqXx938ZwxE0HEq+6fqPDGXPlVVqcmRUkwY/SNI/Y3l8vfJOGsYdKjeukXYXwjCFWqojCpA==
+"@kikstart-ui/ui-card@2.0.0-alpha.3", "@kikstart-ui/ui-card@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-card/-/ui-card-2.0.0-alpha.3.tgz#d332907437bdaf01e1d46e7990b7bc4e967fe5a5"
+  integrity sha512-SyHDRvwMy8ogfOPNqLo9zOOYoG2G5RZKpKmpPMOjX20XCbrMc/y39G5JLRlG81NWPhyJJf9jwggKbiAT4157dA==
+  dependencies:
+    "@angular/router" "^9.1.11"
+    "@kikstart-ui/ui-button" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-loading" "2.0.0-alpha.3"
+    tslib "^1.10.0"
+
+"@kikstart-ui/ui-cart-icon@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-cart-icon/-/ui-cart-icon-2.0.0-alpha.3.tgz#680e8b6ccba274bab131507263d9c82f90820114"
+  integrity sha512-A5OTliHkr22rzX34vSf4v6CCiuOD5aDt7SrZ+rbvQvk4tE6n+CHTobJhLqvDVP+/iXWvo+3gHYQ56X9z9HZrgA==
   dependencies:
     "@angular/router" "^9.1.11"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-code@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-code/-/ui-code-2.0.0-alpha.1.tgz#662f2f7e808359d17e7ec7ed0e6d7762ca441a4b"
-  integrity sha512-/E5ltNY2GjxrDVZou2a08UJ4Kh20d8aNrhQbCZ7jKGmP7j9nIQ8H482dx3bzUpKxrRUNkfUCqW30Odv3wlL99g==
+"@kikstart-ui/ui-code@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-code/-/ui-code-2.0.0-alpha.3.tgz#f8f4ad719d258948ee9f82c3a9523bf4fae60a06"
+  integrity sha512-LizRnhfd+YeR8+D37nmkhhN+y0gdxOXpfW8RBk3wKwkt9uo4XFgzNUYE2zcbkv0LhttTr1Rxj5g8kCxRIMqEfA==
   dependencies:
     "@ctrl/ngx-numbered-codeblock" "^3.0.1"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-comment@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-comment/-/ui-comment-2.0.0-alpha.1.tgz#7f2cc488f3e72774f10913812998e3e5be647490"
-  integrity sha512-DzDOXaWp3TREiiIv/zl6aN8132yyrB7o8YPMNscw8min85FAsZrzT6PPQn2a552d9F4krS4OsZBEMTF7GsFNwA==
+"@kikstart-ui/ui-comment@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-comment/-/ui-comment-2.0.0-alpha.3.tgz#d164c27f707eaf3e0eee9f959ec6a397740ed2c4"
+  integrity sha512-oouP9d6+Y0mt+/VySWoxnGLdSCev6/LuXGTnanfYeZlgXKX3QaphHyCmkdV0KufO4YUsbOqzk3bnn8vcgQRXqg==
   dependencies:
     "@angular/forms" "^9.1.11"
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-avatar" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-button" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-form" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-loading" "2.0.0-alpha.1"
+    "@kikstart-ui/ui-avatar" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-button" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-form" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-loading" "2.0.0-alpha.3"
     "@ngx-formly/bootstrap" "^5.7.1"
     "@ngx-formly/core" "^5.7.1"
     ngx-bootstrap "^5.6.1"
@@ -1158,20 +1158,20 @@
     rxjs "~6.5.5"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-footer@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-footer/-/ui-footer-2.0.0-alpha.1.tgz#f582e7a79450c9d2271590937cbeb3416dd4616f"
-  integrity sha512-XEKY7lknYPLddZeLgLFiZqqTENZBW8MegI1QeY3FbCYA3FPp9L5TC5ZFrA+cmqSJ3ykuSfDLWLKTdb+P1zJrnA==
+"@kikstart-ui/ui-footer@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-footer/-/ui-footer-2.0.0-alpha.3.tgz#ee8b9beccc95d02107c7599843ac52253d13b574"
+  integrity sha512-8Ubt2WrNHAlkY05WR7nXzluFBCsTHCwmdY1Chotfax0ZVdrJRtKbnRy7o1WHqoSj9OB20fIhSU9zqgdlivH/HQ==
   dependencies:
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.1"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-form@2.0.0-alpha.1", "@kikstart-ui/ui-form@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-form/-/ui-form-2.0.0-alpha.1.tgz#f37630d1026c3398acaf5beb8a63c37f9861a9eb"
-  integrity sha512-ix0b7BYG3+C8mhAtbTRjsJKGfulWW41iPS+Js/0wg3/VDAgj4y3Aglzxatk5TvIh6cOYn0NAxJc5fFYKtsmrqA==
+"@kikstart-ui/ui-form@2.0.0-alpha.3", "@kikstart-ui/ui-form@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-form/-/ui-form-2.0.0-alpha.3.tgz#89bff1c530bcfc9e36ddf97ab5596e30f0911b55"
+  integrity sha512-dHMTnFZrv9ywzo2wYnbiDO4zVf4iV+reloF8pV7S0+iaVfLbW+YRfMLTVrqkhnzi/QdQnnt0iyZArk4RcXUZtA==
   dependencies:
     "@angular/forms" "^9.1.11"
     "@ngx-formly/bootstrap" "^5.7.1"
@@ -1180,109 +1180,102 @@
     rxjs "~6.5.5"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-hero@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-hero/-/ui-hero-2.0.0-alpha.1.tgz#4ec9a2f7ba37ce39cf3171cf08b5b8f0f35e9ac7"
-  integrity sha512-Dm8tBpuf18sluSemMyMxUuZ0QE3IiL+HXjAlWToxb9eeqDmd9794ABQOvjTkjb+5M+tSUJpuB+oRj4180bBIIA==
+"@kikstart-ui/ui-hero@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-hero/-/ui-hero-2.0.0-alpha.3.tgz#5e56f42bf7519acbb903121bc6bc4dc3018c866d"
+  integrity sha512-0pJnFD77HVXbBVZEoJMGR+n8sWF9EA0aJ9BoQ+uIP5bAxgMEnCVjfoU7OJpT08TAt5YY8Bpkbse1gzAIryrMng==
   dependencies:
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-avatar" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-brand" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-button" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-card" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-loading" "2.0.0-alpha.1"
+    "@kikstart-ui/ui-avatar" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-brand" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-button" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-card" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-loading" "2.0.0-alpha.3"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-icon@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-icon/-/ui-icon-2.0.0-alpha.1.tgz#1cfd835941be728e24ab3d60394839d6575d6bd7"
-  integrity sha512-IchkE4hT++AUjd5ON6xquXm4IdsBTSOdHQg1e7HUmQyASWGJGWMKcThoEc2St1IihFrDvmWQzY9AMtYaXTVhAQ==
+"@kikstart-ui/ui-icon@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-icon/-/ui-icon-2.0.0-alpha.3.tgz#9af96bf1d64e65b593dd05211c0b3936be2050c3"
+  integrity sha512-O3h3gN/eRKm75J1Oj2nw01FjXL/r1GNZ6uD1dx6JsUMN4Ka6FgK5Ev4YvnGQFyU2t688HI2XXaLMUdaJC9fhTA==
   dependencies:
     "@fortawesome/angular-fontawesome" "^0.6.1"
     "@fortawesome/fontawesome-svg-core" "^1.2.28"
     "@fortawesome/free-solid-svg-icons" "^5.13.0"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-label@2.0.0-alpha.0":
-  version "2.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-label/-/ui-label-2.0.0-alpha.0.tgz#b50adfeb34c4f88b2d80b30495111dae115c1c02"
-  integrity sha512-R9y9WJdJ3dp+b7RAn2Bw3slHdnV83bDfQath8JTEUH8wv0Sn8+RZhbXSpGD/eeMKnugVHzs9vEXwTy7Qz8vPiw==
+"@kikstart-ui/ui-label@2.0.0-alpha.3", "@kikstart-ui/ui-label@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-label/-/ui-label-2.0.0-alpha.3.tgz#96227db122c9b1a706cf06907e9aa861a84a0519"
+  integrity sha512-YeSRCF9gyIQfaxdTQYWGIu38ZY89QTyvtD/Vu2x/VzbZEZm4O7Wab/sLy66Yq8sEJzfyEVOqN7XUOBHzx/mqEA==
   dependencies:
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-label@2.0.0-alpha.1", "@kikstart-ui/ui-label@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-label/-/ui-label-2.0.0-alpha.1.tgz#0601788e97dd5103e7cb2028b6c5cad471a5b2f7"
-  integrity sha512-yzD/ZsIPHTdJ6RUyo99HFznfQHrPxqbV8ttMMODG6eS4sHdayTDAuvWFyqpO49jhbAS8l8vYknBqXcI2M2jJIw==
-  dependencies:
-    tslib "^1.10.0"
-
-"@kikstart-ui/ui-link@2.0.0-alpha.0":
-  version "2.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-link/-/ui-link-2.0.0-alpha.0.tgz#4bf386daf67fb2b5298c170215509cc01f6f1231"
-  integrity sha512-/snYF89/OBlqlVdEqzDSOyv5KzfURK5LvkHkBvhZfmuGOUFDFGLHxfyayU1+oHN2H3PfHk6E+xz2lAoqktAkzg==
+"@kikstart-ui/ui-link@2.0.0-alpha.3", "@kikstart-ui/ui-link@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-link/-/ui-link-2.0.0-alpha.3.tgz#2013dfe20cfc84dd71cef3b2a26818f962e1129c"
+  integrity sha512-xuymx63he8mXuHnYwaaRXMXeIryKMFVVn3LrDcl3MG20A0P6z69Tv/cYfJ7ryglB7+TmNpDsmFN7oLK+BPb4Aw==
   dependencies:
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.0"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-link@2.0.0-alpha.1", "@kikstart-ui/ui-link@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-link/-/ui-link-2.0.0-alpha.1.tgz#00cb29559d13366252d4a515576486936777a6df"
-  integrity sha512-zGc9c10Qw3C2BCygWrRBFw8vDH/7HsXZc2JvK13sr95jgvQkenl1/31LFofTylD1GaeAbjHuHgE2ek4Rb2kOrg==
-  dependencies:
-    "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    tslib "^1.10.0"
-
-"@kikstart-ui/ui-loading@2.0.0-alpha.1", "@kikstart-ui/ui-loading@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-loading/-/ui-loading-2.0.0-alpha.1.tgz#d3857433b977cbde98c9b9a0c911ee823847479f"
-  integrity sha512-9KWmk5nWfybaJBTH7FKOqna2P9tm/s+JDLi9WNzvIuTgRPbI6MsfZZRQXyheD4Nl9ms8fw6v971D4vI/CeaNRw==
+"@kikstart-ui/ui-loading@2.0.0-alpha.3", "@kikstart-ui/ui-loading@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-loading/-/ui-loading-2.0.0-alpha.3.tgz#c77a3ffd42255feec49cfa0fd09c1468815c4462"
+  integrity sha512-x+D+ioDejZP15suProZ/1tRMigRovawSOFHAQ+O2jxxwcOtBI0EVEXcUTmTeaOgcw4YdIAIiSiVWBHrbmUATHA==
   dependencies:
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-markdown@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-markdown/-/ui-markdown-2.0.0-alpha.1.tgz#a91b83f5e1758a0922652e68bec684956cdad230"
-  integrity sha512-5nYr/+1hxmqnyI3kR/xf9BDS3mU+GmiZ3r+fESWW5/0X/pTG5yYziK+2BDVPSGr6BoPeWzIWKSeoQt+vj5tLjg==
+"@kikstart-ui/ui-markdown@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-markdown/-/ui-markdown-2.0.0-alpha.3.tgz#48151a59c3b380c01ea98786a45ee851cfd8c3bd"
+  integrity sha512-dz6TdO2qi+YIbvhY+wIum/isR5bUUBCVOHmvHW8q0f7fEvabStX2Gxqjx9hSupXRPLqAmU/yKiVPqlv4FgeUjQ==
   dependencies:
     ngx-markdown "^9.1.1"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-no-data@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-no-data/-/ui-no-data-2.0.0-alpha.1.tgz#88c81117221bb8dc5af17a7d0ea55acfbb2e05c9"
-  integrity sha512-irFA9P7JCsR7d95kdpGxUSKEIUa7YOMNQ1iSdEzoxmJ/OCpZBCTTyfTGK9OQcSHgTbZS/Vdk5fyF5HIlnJUKgw==
+"@kikstart-ui/ui-navbar@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-navbar/-/ui-navbar-2.0.0-alpha.3.tgz#9ef1d9f29a3691dfd57988a23ce383c909197c2a"
+  integrity sha512-mbC5ojU6A2FiuJg3rYCxbDiq/+zYVWwMQ6DXTLiddvnIei1mEzmoP1eS4zBwR3YlIeeL0nCqOA3/LHM1S4puXA==
   dependencies:
     "@angular/router" "^9.1.11"
-    "@kikstart-ui/ui-button" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-label" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-link" "2.0.0-alpha.1"
-    "@kikstart-ui/ui-loading" "2.0.0-alpha.1"
+    "@kikstart-ui/ui-brand" "2.0.0-alpha.3"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-price@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-price/-/ui-price-2.0.0-alpha.1.tgz#d35b3ff7a7e4c99032d883f91c23f3ea7642b845"
-  integrity sha512-x10NHrXxbA/m9L5Q3l0QzH4C8rfubIAG4Kdq15ilzqLJrvzBgy4Ye+n6vZC81rI6z4+39m0KermIMbTxca31gg==
+"@kikstart-ui/ui-no-data@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-no-data/-/ui-no-data-2.0.0-alpha.3.tgz#b14d8545cdf779095ec5acec8a51f4a462412011"
+  integrity sha512-UpBu4Vrdy6iJ8/pUARTfDnKv3Cz7NaCd9lNlsX7fH5CvfmBx9ygf7+8hrDhSMF0I5kLdjevoGLAOGG+bgYBxBA==
+  dependencies:
+    "@angular/router" "^9.1.11"
+    "@kikstart-ui/ui-button" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-label" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-link" "2.0.0-alpha.3"
+    "@kikstart-ui/ui-loading" "2.0.0-alpha.3"
+    tslib "^1.10.0"
+
+"@kikstart-ui/ui-price@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-price/-/ui-price-2.0.0-alpha.3.tgz#2c63903e11b140a43827979de22240ca121d4696"
+  integrity sha512-6cqPuhTLNZ/BacCFBc9T2XthUrCCT8Z4u80OjiIxTxmSgqwERSpy81NQGJf+BbwnlQ66RVjZ8FRh9/gBsOhguw==
   dependencies:
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-tabs@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-tabs/-/ui-tabs-2.0.0-alpha.1.tgz#2442bdcd3f682b8b783b6d28abcc8b3a09153b88"
-  integrity sha512-82aicsa42FPVNspEE29ME24AQF4BOMU1qNPtfehoAqFUP9pcEmhS4LsBfoYqFErojibg7sdfDXIddcVoIVUnBw==
+"@kikstart-ui/ui-tabs@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-tabs/-/ui-tabs-2.0.0-alpha.3.tgz#37a94f113dc012a042d76e09563722cbd6ea21db"
+  integrity sha512-5vrGnG6KCvbG0DoRPldMThpcxUiXwgzBF0449qEZa6bAYDpkd8KyK/uw4SwyoGP9LVxIFAzqjE5O9qjw7JbSvQ==
   dependencies:
     "@angular/router" "^9.1.11"
     tslib "^1.10.0"
 
-"@kikstart-ui/ui-timeago@^2.0.0-alpha.1":
-  version "2.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-timeago/-/ui-timeago-2.0.0-alpha.1.tgz#7e89a79adaf59b4bf4d1fe71404616c482d49e87"
-  integrity sha512-pQD8b+xbm8ChAuANKoh8jSm+de++hspUZ4uwvOT0BIepZ4xN2aZzFJdxv5enCIwsI0EhJiyiYzJu23qhToLh1g==
+"@kikstart-ui/ui-timeago@^2.0.0-alpha.3":
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@kikstart-ui/ui-timeago/-/ui-timeago-2.0.0-alpha.3.tgz#f05ce5101223555fd5e9e9fb4e5bbb72ab4426f1"
+  integrity sha512-ul/xdYY3ObSFkt8RpIT6AT5h/HHVFvcJqLosY/Hpt0MKPDr7tdm+UMAct+Bs/dIXKY4IbzfSL/jv9PSVHEPngg==
   dependencies:
     ngx-timeago "^1.0.4"
     tslib "^1.10.0"

@@ -7,6 +7,7 @@ import { LayoutWebModule } from '@kikstart-ui/layout-web';
 import { UiFormModule } from '@kikstart-ui/ui-form';
 import { UiHeroModule } from '@kikstart-ui/ui-hero';
 import { UiLinkModule } from '@kikstart-ui/ui-link';
+import { UiNavbarModule } from '@kikstart-ui/ui-navbar';
 
 const MODULES = [
   // Default Angular modules
@@ -18,6 +19,7 @@ const MODULES = [
   UiFormModule,
   UiHeroModule,
   UiLinkModule,
+  UiNavbarModule,
 ];
 
 @NgModule({
